@@ -19,7 +19,10 @@ Display values and make changes to the bar on the interface
 
 Test into Marlin for 3D Print i3 modle 
 //修改附合目前自己在用使用的3D印表機 主要的功能及其他相關操作
+
 1.監看 所有的指令 有無問題
+
 2.確認 作動是否正常
+
 3.改良觸控圖樣設定
 
